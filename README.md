@@ -6,4 +6,6 @@ The full project code from all 4 members. Contains Exploratory, Explanatory, Pre
 The model was able to successfully predict whether mushrooms were edible or not with a 99.8% accuracy, with a total of 0 False Negatives.  
 
 #### mushrooms-final.csv
-The dataset used for the analysis.
+The dataset used for the analysis.  
+
+Note that all code is written in python version 2.7.
